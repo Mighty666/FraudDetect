@@ -1,0 +1,9 @@
+streamlit
+pandas
+Pillow
+PyPDF2>=2.0.0
+python-docx
+google-generativeai
+plotly
+openpyxl
+tabulate
